@@ -1,0 +1,16 @@
+tfms\webserver\DistributeTask.class
+tfms\entity\User.class
+tfms\utils\UserStatusSetter.class
+tfms\utils\TaskAppointer.class
+tfms\webserver\ExtractorRequestBody.class
+tfms\webserver\TaskUpdate.class
+tfms\utils\DataSource.class
+tfms\main\MainClass.class
+tfms\webserver\SetUserStatus.class
+tfms\webserver\Webserver.class
+tfms\entity\Task.class
+tfms\utils\JSONParser.class
+tfms\utils\TasksFromUserRemover.class
+tfms\utils\AssignmentValidator.class
+tfms\utils\JSONParserToTask.class
+tfms\utils\TaskUpdateStatus.class

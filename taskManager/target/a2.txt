@@ -1,0 +1,7 @@
+Exception in thread "main" java.lang.NoClassDefFoundError: org/apache/log4j/Logger
+	at tfms.main.MainClass.<clinit>(MainClass.java:8)
+Caused by: java.lang.ClassNotFoundException: org.apache.log4j.Logger
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 1 more
